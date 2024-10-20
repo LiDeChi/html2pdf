@@ -54,7 +54,7 @@ graph TD
 
 1. 克隆此仓库：
    ```
-   git clone https://github.com/yourusername/html-to-pdf-converter.git
+   git clone https://github.com/LiDeChi/html-to-pdf-converter.git
    ```
 
 2. 安装所需的 Python 包：
